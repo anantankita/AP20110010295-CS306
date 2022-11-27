@@ -1,8 +1,8 @@
-// E  TE’
-// E’ +TE’ | ͼ
-// T  FT’
-// T’ *FT’ | ͼ
-// F  (E) | i
+// E -> TE’
+// E’ -> +TE’ | ͼ
+// T -> FT’
+// T’ -> *FT’ | ͼ
+// F -> (E) | i
 
 #include<stdio.h>
 #include<string.h>
