@@ -1,0 +1,22 @@
+Line no. 	 Token no. 	 Token 	 Lexeme
+
+      1		       0		 Keyword	     int
+      1		       1		 Keyword	    main
+      1		       2		 Special symbol	       )
+      2		       3		 Special symbol	       {
+      3		       4		 Keyword	     int
+      3		       5		 Identifier	       a
+      3		       6		 Digit		       2
+      3		       7		 Digit		       0
+      3		       8		 Special symbol	       ;
+      4		       9		 Keyword	     int
+      4		      10		 Identifier	       b
+      4		      11		 Identifier	       c
+      5		      12		 Keyword	    char
+      5		      13		 Identifier	      ch
+      6		      14		 Keyword	   float
+      6		      15		 Identifier	       f
+      7		      16		 Identifier	       a
+      7		      17		 Identifier	       b
+      7		      18		 Identifier	       c
+      8		      19		 Special symbol	       }

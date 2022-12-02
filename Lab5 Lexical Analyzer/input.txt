@@ -1,0 +1,8 @@
+int main()
+{
+int a=20;
+int b, c;
+char ch;
+float f;
+a=b*c;
+}
